@@ -11,12 +11,19 @@
 
 ## About Me
 
-I'm a passionate **Data Analyst** with over **5 years of experience** in turning raw data into meaningful insights. Skilled in data visualization, reporting, and data manipulation using a variety of tools and programming languages.
+Detail-oriented Data Analyst with over 5 years’ experience in data cleaning, consolidation, and visualization across various domains. Proficient in leveraging tools such as Power BI, Tableau, and SQL to transform complex datasets into actionable insights. Adept at developing dashboards, reports, and analytical models to support strategic decision-making and business growth.s.
 
 - 📊 Experienced in creating interactive dashboards and reports  
-- 🔍 Adept at data cleaning and analysis  
-- 🛠️ Proficient in SQL, Python, PowerBI, Tableau, and Excel  
+- 🔍 Data Preparation & Cleaning 
+- 🛠️ Proficient in SQL, Python, PowerBI, Tableau, Excel  & Database Management
+•	Business Intelligence Tools Integration
+•	Statistical Analysis & Trend Identification	
+•	Data Analysis & Reporting
+•	Business Intelligence (BI) Development  	  
+•	Cross-functional Collaboration 
+•	 Stakeholder Engagement
 - 🚀 Constantly learning new techniques to improve data-driven decision-making
+
 
 ---
 
