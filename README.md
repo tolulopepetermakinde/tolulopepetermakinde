@@ -67,7 +67,7 @@ Here are some of my recent projects:
 I'm always excited to connect with like-minded professionals!  
 Feel free to reach out:
 
-[LinkedIn](https://www.linkedin.com/in/tolulope-peter-makinde/) | [Email](mailto:prudencemakinde@gmail.com) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/tolulope-peter-makinde/) | [Email](mailto:prudencemakinde@gmail.com) | [GitHub](https://github.com/tolulopepetermakinde)
 
 ---
 
