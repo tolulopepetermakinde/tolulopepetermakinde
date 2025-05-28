@@ -45,10 +45,10 @@ Detail-oriented Data Analyst with over 5 years’ experience in data cleaning, c
 
 Here are some of my recent projects:
 
-### 📈 Sales Dashboard (PowerBI)
+### 📈 HR Dashboard:  (PowerBI)
 *Interactive dashboard for sales performance analysis across regions.*
 
-[View Project](https://github.com/yourusername/sales-dashboard)
+[View Project]( https://mavenanalytics.io/project/18862)
 
 ### 📊 Customer Segmentation (Python & SQL)
 *Performed customer segmentation using clustering algorithms.*
