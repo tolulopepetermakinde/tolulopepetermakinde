@@ -32,7 +32,7 @@ Detail-oriented Data Analyst with over 5 years’ experience in data cleaning, c
 | Skill / Tool | Proficiency |  
 |----------------|--------------|  
 | ![PowerBI Logo](https://img.icons8.com/color/48/000000/power-bi.png) PowerBI | Advanced |  
-| ![Tableau Logo](https://img.icons8.com/ios/50/000000/tableau.png) Tableau | Advanced |  
+| ![Tableau Logo](https://img.icons8.com/?size=50&id=9Kvi1p1F0tUo&format=png) Tableau | Advanced |  
 | ![Excel Logo](https://img.icons8.com/ios/50/000000/ms-excel.png) Excel | Expert |  
 | ![SQL Logo](https://img.icons8.com/ios/50/000000/sql.png) SQL | Expert |  
 | ![Python Logo](https://img.icons8.com/ios/50/000000/python.png) Python | Advanced |  
@@ -45,10 +45,10 @@ Detail-oriented Data Analyst with over 5 years’ experience in data cleaning, c
 
 Here are some of my recent projects:
 
-### 📈 HR Dashboard:  (PowerBI)
-*Interactive dashboard for sales performance analysis across regions.*
+### 📈 HR Dashboard:  (Tableau)
+*Interactive dashboard for staff analysis across regions.*
 
-[View Project]( https://mavenanalytics.io/project/18862)
+[View Project](https://public.tableau.com/app/profile/tolulope.makinde/viz/HRExecutiveDashboard_17214213915350/HRDASHBOARD)
 
 ### 📊 Customer Segmentation (Python & SQL)
 *Performed customer segmentation using clustering algorithms.*
@@ -67,7 +67,7 @@ Here are some of my recent projects:
 I'm always excited to connect with like-minded professionals!  
 Feel free to reach out:
 
-[LinkedIn](https://linkedin.com/in/yourname) | [Email](mailto:your.email@example.com) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/tolulope-peter-makinde/) | [Email](mailto:prudencemakinde@gmail.com) | [GitHub](https://github.com/yourusername)
 
 ---
 
