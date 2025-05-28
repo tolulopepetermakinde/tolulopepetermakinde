@@ -4,7 +4,7 @@
 
 ---
 
-![Profile Banner](https://media.licdn.com/dms/image/v2/D4E16AQGh1dGzgtW4Bw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736403755977?e=1753920000&v=beta&t=A6Uy24acFKuyYQ0eSqVCjdOv8eklr8IL1EggVzGTPKw)   
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4E16AQG6T4YQKkOvWA/profile-displaybackgroundimage-shrink_350_1400/B4EZcYr27lHsAc-/0/1748465841509?e=1753920000&v=beta&t=jhL8OlY5cL_D-H9J7bij2TRgwyYMdk6wZH3oUZZmZs0)   
 *Transforming data into actionable insights.*
 
 ---
